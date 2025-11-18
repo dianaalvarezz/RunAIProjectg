@@ -1,0 +1,13 @@
+videos/
+outputs/
+venv/
+__pycache__/
+*.pyc
+models/
+*.onnx
+*.h5
+*.pt
+.ipynb_checkpoints/
+*.log
+logs/
+Thumbs.db
